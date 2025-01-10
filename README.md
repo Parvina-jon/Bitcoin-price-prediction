@@ -1,2 +1,2 @@
-# project-walkthroughs
+# Bitcoin-price-prediction
 Predicting Bitcoin price using ARIMA models, Random Forrest, LGBM, XGBoost, and Sracking Ensemble models
