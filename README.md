@@ -1,5 +1,5 @@
 # Bitcoin-price-prediction
-# Predicting Bitcoin price using ARIMA models, Random Forrest, LGBM, XGBoost, and Stacking Ensemble models
+ Predicting Bitcoin price using ARIMA models, Random Forrest, LGBM, XGBoost, and Stacking Ensemble models
 
 # Обзор проекта
 
@@ -10,10 +10,17 @@
 * Загрузка данных о стоимости биткоина
 
 * Очистка и объединение данных
-Exploratory Data Analysis
-Feature Engineering
-Тестирование гипотез
-Создание базовой  модели машинного обучения и оценка её точности
-Тренировка моделей машинного обучения(ARIMA, Random Forest and Stacking Ensemble)
-Подбор гиперпараметров и стекинг
-Предсказание цены биткоина на основе лучшего алгоритма
+
+* Exploratory Data Analysis
+
+* Feature Engineering
+
+* Тестирование гипотез
+
+* Создание базовой  модели машинного обучения и оценка её точности
+
+* Тренировка моделей машинного обучения(ARIMA, Random Forest and Stacking Ensemble)
+
+* Подбор гиперпараметров и стекинг
+
+* Предсказание цены биткоина на основе лучшего алгоритма
